@@ -6,7 +6,7 @@ import SubjectCard from '../components/SubjectCard'
 function HomePage() {
   return (
     <div className="space-y-12">
-      <img src="/image/banner.png" alt="Banner" className="mx-auto w-full max-w-4xl rounded" />
+      <img src="image/banner.png" alt="Banner" className="mx-auto w-full max-w-4xl rounded" />
 
       <section>
         <h2 className="mb-6 text-center text-xl font-bold uppercase">
